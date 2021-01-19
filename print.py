@@ -1,1 +1,7 @@
 print("100")
+print("Hey this Bank Nifty")
+print(3000,25,"third video test")
+print("$\n$$\n$$$\n$$$$\n$$$$$")
+print('Aryan', 26)
+print('Aryan\n',26)
+print('$' * 16)
