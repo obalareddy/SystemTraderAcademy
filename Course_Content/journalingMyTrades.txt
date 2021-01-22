@@ -1,0 +1,108 @@
+                                   MY TRADING JOURNAL 
+
+""" 
+What , why and How
+"""
+***********************************
+WHAT:
+
+* Regular logging of all your trades with imp parameters, 
+* log your emotions as well
+* keep it simple and elaborate
+* Context and trade plan , why you took that trade
+**********************************************************************************************
+WHY:
+
+* You log the subconscious to become conscious of it.
+* Find patterns in your behavior
+* Find errors you need to fix
+* Even with systematic trading, you can still make mistakes
+  ex: choosing wrong strike prices, missed adding few things in the trade
+* It also helps in improving our strategies
+* Find out where your edge is
+* Find if any technical issues due to which a large loss
+* Find what factors are affecting your trading performance
+* Unless we find what we are doing wrong, what is triggerrig that action, we cant solve
+* We may get to know how to improve trade cost
+* How to avoid positive slippage(if price goes down then our entry price)
+* Find whats working for you, which setup you are executing properly
+* With sleep timings , what time you sleep and wake up. Find if any of these affect the decisions?
+
+**********************************************************************************************
+
+HOW DO YOU DO?
+
+* Excel is best place to start with, after having 6 months or 1 year data, you can create meanings out of that data
+* edgewonk - popular trading journal software
+
+* Log trade plan before beginning of trading hours
+* Log traded trades immediately after trading hours
+* Also log what food you had and how its affected your behavior
+* Log if morning workout improves your mood and make better decisions
+* Sleep times affect?
+* Login time ?
+* Log the context around the entire trading day
+  say, how much downwards happened before market moved in your direction and what was your reactions?
+* Log screen time on that day? will less screen time works and decreses emotional drain?
+* Log whats causing you to get frustrated?
+* Log when you dont follow particular rule , how its affected?
+* Log the timeframe and how well you get better output?
+
+With all this data over 100 trades or so, take time may be two days to analyse everything without bias mindset
+and see if you find any patterns ?
+
+* log if tight SL affecting?
+
+
+
+Watch all videos on edgewonk and see what parameters they are considering?
+
+**********************************************************************************************
+PARAMETERS FOR TRADING PLAN 
+
+** If  you have a system, consider the following parameters before your trading starts.
+
+    * The instrument you are trading with (Ex: BNF or Nifty , futures or options etc).
+    * Levels at which you'll execute the trade.
+    * What would be the stopp loss / risk.
+    * What would be the position size.
+    * What's the target/ exit plan.
+    * When will you exit if target not reached
+**********************************************************************************************
+PARAMETERS FOR TRADES 
+
+{After trading is done}
+
+* Trade instrument
+* Entry Price {entry price in the instrument , and register futures/spot/itm/atm option levels}
+* Entry time
+* Stop loss set
+* Final stop loss
+* Exit time
+* Exit price
+* Total cost {as reported by broker}
+* Net Profit/loss
+* Whether you executed the system's trade plan perfectly
+  If not, what mistakes you did while executing if any
+
+**********************************************************************************************
+
+PARAMETERS AROUND TRADES
+
+* Day of the trade
+* Wheter price moved in your favor one or two candles within entry, or against your favor.
+* Mistakes you made
+* Reason for the mistake
+* How you felt throughout the trading day
+* Any significant things happened the day before or on morning before trading
+* Did you trade in a hurry?
+* How distracted/focused did you feel during the trading hours
+* What did you eat, when did you eat. Which food makes you sleep and avoid eating in the morning.
+* After what time in a day you start loosing your focus? WIll it impact on decition making
+* Meditation helps to improve focus?
+
+**********************************************************************************************
+
+
+
+
