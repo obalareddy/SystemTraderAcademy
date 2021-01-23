@@ -1,0 +1,17 @@
+TRADE ANALYSIS
+
+IMPORTANT PARAMETERS
+
+• Total Number of Trades
+    Less tha 30 trades is not good, For intraday, anything above 500 trades is good.
+    Everything reverts to mean over a period of time.
+    Atleast 30 trades per market phase.
+• Total Trades Won
+• Total Trades Lost
+• Win % (trades won / total no of trades)
+• Loss % (trades lost / total no of trades)
+• Reward to Risk ratio (average win * win %) / (average loss * loss %)
+• Net PNL (total proft after cost)
+• Net Proft %
+• CAGR
+• Maximum Drawdown
