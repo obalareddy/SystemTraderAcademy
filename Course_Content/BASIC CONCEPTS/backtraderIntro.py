@@ -5,11 +5,25 @@ from os import close
 import backtrader as bt
 from datetime import datetime
 
+
+class FirstStrategy(bt.Strategy):
+
+    def log(self, txt):
+        print(txt)
+
+    def __init__(self):
+        self.dataclose = self.datas[0].close
+
+    def next(self):
+        self.log("Close: " + str(self.dataclose[0]))
+
 if __name__ == '__main__':
 
     cerebro = bt.Cerebro()
+    cerebro.addstrategy(FirstStrategy)
 
     datapath = "Course_Content/DATA/Nifty-1D.csv"
+
 
     data = bt.feeds.GenericCSVData(
         dataname = datapath,
@@ -30,7 +44,7 @@ if __name__ == '__main__':
     )
 
     cerebro.adddata(data)
-    cerebro.broker.setcash(1000000)
+    cerebro.broker.setcash(1000000.00)
 
     print("The starting portfolio value : ", cerebro.broker.getvalue())
 
